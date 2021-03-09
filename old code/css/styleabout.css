@@ -1,0 +1,9 @@
+body {
+    margin: auto;
+    text-rendering: optimizeLegibility;
+    -webkit-font-feature-settings: "kern";
+    font-feature-settings: "kern";
+    -webkit-font-smoothing: antialiased;
+    background-color: #CBB9B9;
+    font-family: monotype-grotesque, sans-serif;
+}
